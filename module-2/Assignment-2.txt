@@ -1,0 +1,44 @@
+XRP Ledger Features
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to explore the features of the XRP Ledger, including its decentralized exchange, token issuance, payment channels, and the concept of "rippling." Students will also gain practical experience by creating a simple Python script to interact with the XRP Ledger API and demonstrate a basic transaction.
+
+Instructions for Students:
+
+Part 1: Key Features of XRP Ledger (20 points)
+
+Investigate XRP Ledger Features: Research and investigate the key features of the XRP Ledger, including but not limited to:
+Decentralized exchange.
+Token issuance.
+Payment channels.
+Part 2: Understanding "Rippling" (20 points)
+
+Concept of Rippling: Explain the concept of "rippling" in the context of the XRP Ledger. Describe how rippling enables multi-hop payments and how it contributes to the efficiency of transactions within the XRP Ledger.
+Part 3: Python Script for XRP Ledger (30 points)
+
+Create Python Script: Develop a simple Python script or code snippet that interacts with the XRP Ledger API. Your script should be able to perform at least one of the following tasks:
+
+Query the balance of a specific XRP Ledger account.
+Submit a basic transaction to the XRP Ledger.
+Script Documentation: Provide clear and concise documentation for your Python script, including comments explaining its functionality and usage.
+
+Part 4: Transaction Demonstration (30 points)
+
+Transaction Demonstration: Use your Python script to demonstrate a basic transaction on the XRP Ledger. Provide step-by-step instructions and explanations of how the transaction is executed and confirmed on the XRP Ledger.
+Part 5: Report Submission (20 points)
+
+Report Format: Compile your research on XRP Ledger features, explanation of rippling, Python script, and transaction demonstration into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+
+Citations: Ensure that you properly cite your sources using a recognized citation style (e.g., APA, MLA, Chicago).
+
+Submission Guidelines:
+
+Submit your completed written report along with the Python script/code as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Understanding of XRP Ledger features (20 points)
+Clarity and depth of explanation regarding rippling (20 points)
+Functionality and correctness of the Python script (30 points)
+Quality and completeness of the transaction demonstration (30 points)
+Presentation and organization of the report (20 points)

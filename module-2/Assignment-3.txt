@@ -1,0 +1,36 @@
+XRP Ledger Account Types
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to help students understand the different types of accounts available on the XRP Ledger, including regular accounts, multi-signature accounts, and escrow accounts. Students will research, explain, and compare these account types, create a visual decision tree for selecting the appropriate account type, and provide real-world examples of scenarios where each type is beneficial.
+
+Instructions for Students:
+
+Part 1: XRP Ledger Account Types (20 points)
+
+Research and Explanation: Research and explain the three main types of accounts on the XRP Ledger: regular accounts, multi-signature accounts, and escrow accounts. Provide a clear and detailed explanation of the characteristics and functionalities of each type.
+Part 2: Comparison and Contrast (20 points)
+
+Features and Use Cases: Compare and contrast the features and use cases of each XRP Ledger account type. Highlight the advantages and limitations of each type in different scenarios.
+Part 3: Decision Tree (30 points)
+
+Create a Decision Tree: Develop a flowchart or decision tree that helps determine when to use each type of XRP Ledger account. Your decision tree should consider factors such as transaction security, control, and automation.
+Part 4: Real-World Examples (30 points)
+
+Provide Scenarios: Offer real-world examples or scenarios where each XRP Ledger account type is beneficial. Explain how each account type addresses specific needs or requirements in those scenarios.
+Part 5: Report Submission (20 points)
+
+Report Format: Compile your research, explanations, decision tree, and real-world examples into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+
+Citations: Ensure that you properly cite your sources using a recognized citation style (e.g., APA, MLA, Chicago).
+
+Submission Guidelines:
+
+Submit your completed written report, including the decision tree, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Comprehensive understanding of XRP Ledger account types (20 points)
+Effective comparison and contrast of features and use cases (20 points)
+Clarity and utility of the decision tree (30 points)
+Quality and relevance of real-world examples (30 points)
+Presentation and organization of the report (20 points)

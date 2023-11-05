@@ -1,0 +1,43 @@
+Code Quality and Testing
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to reinforce code quality and testing practices for Ripple development. Students will implement comprehensive unit tests for critical components of their Ripple applications, use code quality tools and linters to analyze and improve code quality, apply code review practices by reviewing each other's code for potential issues, and refactor and optimize their code based on code quality feedback. The assignment includes preparing a report summarizing their code quality improvements and testing strategies.
+
+Instructions for Students:
+
+Part 1: Unit Testing (30 points)
+
+Critical Components: Identify critical components of your Ripple application that require thorough testing.
+
+Unit Tests: Implement comprehensive unit tests for these critical components. Ensure that your tests cover various scenarios and edge cases.
+
+Part 2: Code Quality Analysis (20 points)
+
+Code Quality Tools: Use code quality tools and linters (e.g., pylint, ESLint) to analyze your Ripple application's code.
+
+Code Quality Improvement: Based on the analysis, make improvements to your code to enhance its quality. Address issues such as code style violations and potential vulnerabilities.
+
+Part 3: Code Review (20 points)
+
+Code Review Practices: Pair up with another student in the course. Review each other's code and provide constructive feedback on code quality, clarity, and adherence to best practices.
+Part 4: Code Refactoring (20 points)
+
+Refactoring: Based on the feedback received during code reviews and code quality analysis, refactor and optimize your code as necessary. Explain the rationale behind your refactoring decisions.
+Part 5: Testing and Code Quality Report (10 points)
+
+Report: Prepare a report summarizing your testing strategies, including details about the unit tests implemented, code quality analysis findings, improvements made, and the code review process. Reflect on the significance of code quality and testing in Ripple development.
+Part 6: Report Submission (10 points)
+
+Report Format: Compile your testing strategies, code quality analysis results, code improvements, and reflections into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the testing strategies, code quality analysis results, code improvements, and reflections, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Comprehensive unit tests for critical components (30 points)
+Effective use of code quality tools and linters (20 points)
+Constructive code review feedback (20 points)
+Successful code refactoring and optimization (20 points)
+Well-structured testing and code quality report (10 points)
+Presentation and organization of the report (10 points)

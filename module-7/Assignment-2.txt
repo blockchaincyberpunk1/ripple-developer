@@ -1,0 +1,39 @@
+Payment Gateway Development
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in developing a functional payment gateway for Ripple. Students will implement the payment gateway according to the design and plan created in Assignment 1. They will utilize Ripple APIs and SDKs to facilitate XRP and asset payments, incorporate user account management, transaction history, and merchant registration features, and ensure the implementation of security practices, such as encryption and secure authentication. Additionally, students will document the development process, codebase, and API usage.
+
+Instructions for Students:
+
+Part 1: Development (50 points)
+
+Implementation: Develop the Ripple-based payment gateway according to the design and plan created in Assignment 1. Ensure that your implementation aligns with the defined functionalities, including payment processing, transaction tracking, and merchant management.
+
+Ripple APIs and SDKs: Utilize Ripple APIs and SDKs to facilitate XRP and asset payments within your gateway. Ensure that payment transactions are properly processed and recorded.
+
+User Account Management: Implement user account management features, allowing users to create accounts, manage their profiles, and securely store their private keys.
+
+Part 2: Security (20 points)
+
+Security Practices: Incorporate security practices into your payment gateway, including data encryption, secure authentication, and measures to protect user data and transactions.
+Part 3: Documentation (20 points)
+
+Development Process: Document the development process, highlighting key steps and challenges faced during development.
+
+Codebase: Provide documentation for your codebase, including explanations of critical components and modules.
+
+API Usage: Document how you utilized Ripple APIs and SDKs in your payment gateway development.
+
+Submission Guidelines:
+
+Submit your completed written documentation, including the development process, codebase documentation, and API usage, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Successful implementation of the payment gateway (50 points)
+Effective use of Ripple APIs and SDKs (20 points)
+Comprehensive user account management features (20 points)
+Implementation of security practices (20 points)
+Thorough documentation of the development process (20 points)
+Clear and informative codebase documentation (20 points)
+Documentation of API usage (20 points)

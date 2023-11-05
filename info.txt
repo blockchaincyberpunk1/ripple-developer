@@ -1,0 +1,4 @@
+Code Samples
+
+https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart/js/
+https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/quickstart/py/

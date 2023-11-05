@@ -1,0 +1,40 @@
+Ripple Best Practices Research and Presentation
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to enable students to explore and document best practices within the Ripple ecosystem. Students will research and compile a list of best practices for Ripple development, security, and deployment. By studying Ripple's official documentation, whitepapers, and community resources, students will gain insights into industry-standard practices and their significance in Ripple projects. This assignment emphasizes the importance of adhering to best practices to enhance the reliability and security of Ripple-based applications.
+
+Instructions for Students:
+
+Part 1: Research and Compilation (40 points)
+
+Research Best Practices: Assign students to research and compile a list of best practices within the Ripple ecosystem. They should focus on best practices related to Ripple development, security, and deployment. Students should use official Ripple documentation, whitepapers, and community resources as primary sources.
+
+Categories of Best Practices: Instruct students to categorize their findings into three main categories:
+
+Development Best Practices: Best practices related to coding, application design, and development methodologies specific to Ripple technology.
+
+Security Best Practices: Security-related best practices, including secure key management, transaction security, and protection against vulnerabilities.
+
+Deployment Best Practices: Best practices for deploying Ripple-based applications, including considerations for scalability and reliability.
+
+Part 2: Presentation (50 points)
+
+Presentation Preparation: Assign students to prepare a presentation based on their research findings. The presentation should include:
+
+A clear overview of the categories of best practices (development, security, deployment).
+
+Detailed explanations of key best practices within each category.
+
+Real-world examples or scenarios demonstrating how adhering to these best practices can enhance the reliability and security of Ripple-based applications.
+
+Emphasis on the importance of following these practices in Ripple development projects.
+
+Submission Guidelines:
+
+Students should submit their presentation materials, which may include slides or a document summarizing their findings and analysis, through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Quality and comprehensiveness of research (40 points)
+Clarity and effectiveness of the presentation (50 points)
+Adherence to the assignment guidelines (10 points)

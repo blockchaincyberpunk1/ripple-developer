@@ -1,0 +1,38 @@
+Setting Up a Ripple Development Environment
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to prepare students for Ripple development by guiding them through the process of setting up a development environment. Students will install and configure the development environment for their chosen programming language and Ripple SDK from Assignment 1, create a basic "Hello, Ripple!" program using the SDK to verify that the environment is correctly set up, document the installation and setup process along with any challenges encountered and solutions found, and share their experiences and code with the class to assist classmates with similar setups.
+
+Instructions for Students:
+
+Part 1: Environment Setup (30 points)
+
+Install and Configure Environment: Follow the instructions provided in Assignment 1 to install and configure the development environment for your chosen programming language and Ripple SDK. Ensure that all necessary dependencies and tools are correctly installed.
+
+Verify Setup: Once the setup is complete, verify that your development environment is correctly configured by running a basic "Hello, Ripple!" program using the SDK. Provide the code for this program.
+
+Part 2: Installation and Setup Documentation (30 points)
+
+Document the Process: Create a detailed document or guide that outlines the installation and setup process for your chosen programming language and Ripple SDK. Include step-by-step instructions, screenshots (if applicable), and descriptions of any challenges you encountered during the setup.
+
+Challenges and Solutions: Describe any challenges or issues you faced while setting up the environment and provide solutions or workarounds for each challenge. This will help your classmates who may encounter similar issues.
+
+Part 3: Sharing with Class (20 points)
+
+Class Sharing: Share your experiences and the installation/setup documentation you created with the class. You can do this by presenting your findings, sharing your document, or providing a brief summary in a discussion forum or during a class session.
+Part 4: Report Submission (20 points)
+
+Report Format: Compile your installation/setup documentation, including challenges and solutions, into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+
+Citations: Ensure that you properly cite your sources and provide references for any external materials or documentation used in your assignment.
+
+Submission Guidelines:
+
+Submit your completed written report (installation/setup documentation) as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Successful setup and verification of the development environment (30 points)
+Quality and completeness of installation/setup documentation (30 points)
+Effectiveness of describing and providing solutions for challenges (30 points)
+Participation and sharing with the class (20 points)

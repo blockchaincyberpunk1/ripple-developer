@@ -1,0 +1,41 @@
+Ripple Application Development
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to empower students to put their Ripple development skills into practice by creating a small application that leverages Ripple's features. Students will identify a use case or application idea that can benefit from Ripple's capabilities, develop a simple application using the Ripple SDK and their chosen programming language, ensure that the application interacts with the Ripple ledger for transactions or data retrieval, document the application's functionality, and present their Ripple application to the class while discussing potential real-world applications.
+
+Instructions for Students:
+
+Part 1: Application Idea (20 points)
+
+Identify a Use Case: Think of a use case or application idea that can leverage Ripple's features. This could be related to cross-border payments, remittances, micropayments, or any other area of interest.
+Part 2: Application Development (40 points)
+
+Choose Programming Language and SDK: Select your programming language of choice from Assignment 1 and the Ripple SDK you have been working with.
+
+Develop the Application: Create a small but functional application using the chosen programming language and the Ripple SDK. The application should interact with the Ripple ledger to either perform transactions or retrieve relevant data based on your chosen use case.
+
+Part 3: Documentation (20 points)
+
+Application Documentation: Document the functionality of your application. This should include:
+User instructions explaining how to use the application.
+Code explanations and comments that clarify the key features and logic of your application.
+Part 4: Presentation (20 points)
+
+Presentation: Present your Ripple application to the class. During your presentation, cover the following points:
+Introduction to your application and its purpose.
+Demonstration of how the application works, including a live or recorded demonstration.
+Discussion of potential real-world applications for your developed solution, emphasizing the value it brings.
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your application, documentation, and any presentation materials into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the application code and documentation, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Identification of a suitable use case (20 points)
+Successful development of the application (40 points)
+Quality of documentation (20 points)
+Clarity and effectiveness of the presentation (20 points)
+Presentation and organization of the report (10 points)

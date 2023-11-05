@@ -1,0 +1,43 @@
+Payment Gateway Design
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to enable students to plan and design a payment gateway for the Ripple network. Students will create a detailed architectural diagram and plan for a Ripple-based payment gateway, defining its functionalities, including payment processing, transaction tracking, and merchant management. They should also consider security measures to protect user data and transactions, outline the user interface and user experience (UI/UX) design, and provide a written document that describes the project's scope, goals, and design considerations.
+
+Instructions for Students:
+
+Part 1: Project Overview (20 points)
+
+Project Scope: Define the scope of your payment gateway project. Specify what it will encompass, such as supported cryptocurrencies, user types (e.g., consumers, merchants), and transaction types (e.g., payments, settlements).
+
+Project Goals: Set clear and achievable goals for your payment gateway project. What do you aim to accomplish with this gateway, and what problems will it address?
+
+Part 2: Architectural Design (30 points)
+
+Architectural Diagram: Create a detailed architectural diagram that illustrates the components, modules, and data flows within your Ripple-based payment gateway. Use appropriate diagramming tools.
+
+Functionalities: Define the functionalities of your payment gateway, including payment processing, transaction tracking, merchant management, and any additional features you plan to include.
+
+Part 3: Security Measures (20 points)
+
+Security Considerations: Describe the security measures you will implement to protect user data and transactions within your payment gateway. Consider aspects such as data encryption, authentication, and authorization.
+Part 4: UI/UX Design (20 points)
+
+User Interface (UI): Outline the user interface design for your payment gateway. Include wireframes or mockups of key screens to demonstrate the user experience.
+
+User Experience (UX): Explain how you will ensure a seamless and user-friendly experience for both consumers and merchants using your payment gateway.
+
+Part 5: Project Documentation (10 points)
+
+Written Document: Prepare a written document that compiles all the project information, including the project scope, goals, architectural diagram, functionalities, security considerations, UI/UX design, and any other relevant details. Use clear headings and subheadings.
+Submission Guidelines:
+
+Submit your completed written document and architectural diagram as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Clear definition of project scope and goals (20 points)
+Detailed and well-structured architectural diagram (30 points)
+Comprehensive definition of functionalities (20 points)
+Thoughtful consideration of security measures (20 points)
+Effective UI/UX design and wireframes/mockups (20 points)
+Presentation and organization of the written document (10 points)

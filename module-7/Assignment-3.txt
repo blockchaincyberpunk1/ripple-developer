@@ -1,0 +1,58 @@
+Ripple-based DApp Ideation
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage creative thinking about decentralized application (DApp) use cases on the Ripple network. Students will brainstorm and propose potential DApp ideas that leverage Ripple's features. They will then select one DApp concept and provide a detailed project proposal, including an outline of the problem it addresses, target users, expected benefits, and sketches of the user interface and user flows. The assignment requires students to submit a written project proposal along with a presentation to communicate their DApp idea effectively.
+
+Instructions for Students:
+
+Part 1: Brainstorming (10 points)
+
+DApp Ideas: Brainstorm and propose at least three potential DApp ideas that can be built on the Ripple network. Consider how these DApps can leverage Ripple's features and address real-world problems.
+Part 2: Project Proposal (50 points)
+
+DApp Selection: Select one DApp concept from your brainstorming that you are most passionate about and believe has significant potential.
+
+Project Proposal: Develop a detailed project proposal for the selected DApp. Include the following:
+
+Problem Statement: Clearly define the problem your DApp addresses. Explain why it is important.
+
+Target Users: Describe the target users or audience for your DApp. Who will benefit from using it?
+
+Expected Benefits: Outline the expected benefits and outcomes of your DApp. What positive impact will it have?
+
+Ripple Integration: Explain how your DApp will leverage Ripple's features and technologies.
+
+Technical Stack: Provide an overview of the technical stack you plan to use for DApp development.
+
+User Interface (UI): Include sketches or wireframes of the DApp's user interface to illustrate its design and user experience.
+
+User Flows: Outline the key user flows within your DApp, including how users will interact with it.
+
+Part 3: Presentation (20 points)
+
+Presentation: Prepare a presentation to communicate your DApp idea effectively. Cover the following points:
+
+Introduction to the selected DApp concept.
+Problem statement and its significance.
+Target users and expected benefits.
+Integration with Ripple features.
+Technical stack and development plan.
+User interface sketches and user flows.
+Submission Guidelines:
+
+Submit your completed project proposal as a PDF document, including sketches or wireframes of the user interface, through the course's learning management system (LMS) by the specified deadline.
+
+Present your DApp idea during the class presentation session, adhering to the time limit provided by the instructor.
+
+Grading Rubric:
+
+Quality of DApp ideas proposed (10 points)
+Clarity of the problem statement (10 points)
+Definition of target users (10 points)
+Explanation of expected benefits (10 points)
+Integration plan with Ripple features (10 points)
+Technical stack overview (10 points)
+Quality and clarity of UI sketches/wireframes (10 points)
+Thoroughness of user flows (10 points)
+Presentation content and delivery (20 points)

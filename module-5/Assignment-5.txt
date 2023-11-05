@@ -1,0 +1,49 @@
+Documentation and Use Case Presentation
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to have students document and present their custom token issuance and asset management features developed on the Ripple network. Students will create comprehensive documentation, including a user manual or developer guide, for their custom token issuance and asset management functionalities. They will also prepare a presentation to demonstrate these features, showcase use cases, and explain the benefits of their implementations. The assignment encourages students to discuss how these features can be integrated into real-world applications or financial systems. Additionally, students will address questions from classmates and the instructor regarding their implementations and reflect on the challenges faced during development and the potential impact of their work.
+
+Instructions for Students:
+
+Part 1: Documentation (30 points)
+
+User Manual or Developer Guide: Create a comprehensive user manual or developer guide for your custom token issuance and asset management functionalities on the Ripple network. Include clear step-by-step instructions, code examples, and explanations to assist users or developers in understanding and using your features effectively.
+Part 2: Presentation Preparation (20 points)
+
+Presentation Outline: Develop an outline for your presentation, including key points, structure, and visuals you plan to use.
+Part 3: Presentation and Demonstration (40 points)
+
+Presentation: Deliver a presentation to the class. Cover the following points:
+
+Introduction to your custom token issuance and asset management features.
+Live demonstration of key functionalities.
+Use cases and benefits of your implementations.
+Demo: Perform a live demonstration of your custom token issuance and asset management features, showcasing their functionality and usability.
+
+Part 4: Integration Discussion (20 points)
+
+Integration: Explain how your custom token issuance and asset management features can be integrated into real-world applications or financial systems. Discuss the potential impact and advantages of using these features in practical scenarios.
+Part 5: Q&A Session (20 points)
+
+Q&A Session: Open the floor to questions from classmates and the instructor regarding your custom token issuance and asset management implementations. Respond to questions with clarity and depth.
+Part 6: Reflection (10 points)
+
+Challenges Faced: Reflect on the challenges you encountered during the development of your custom token issuance and asset management features.
+
+Potential Impact: Consider and discuss the potential impact of your work on the Ripple network and the broader financial industry.
+
+Part 7: Report Submission (10 points)
+
+Report Format: Compile your user manual or developer guide, presentation outline, reflections, and any additional explanations into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the user manual or developer guide, presentation outline, reflections, and any presentation materials, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Comprehensive and clear user manual or developer guide (30 points)
+Effective presentation and demonstration of features (40 points)
+Insightful discussion of integration possibilities (20 points)
+Thoughtful responses to questions during the Q&A session (20 points)
+Reflective discussion of challenges and potential impact (10 points)
+Presentation and organization of the report (10 points)

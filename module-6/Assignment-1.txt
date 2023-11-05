@@ -1,0 +1,39 @@
+Private Key Management
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to ensure that students understand the importance of secure private key management in Ripple applications. Students will develop a Python or JavaScript program that focuses on generating, storing, and securing Ripple account private keys. They will implement encryption and decryption techniques to protect private keys at rest and include features for importing and exporting private keys. The assignment will also involve simulating various security scenarios, such as key loss or theft, and providing recovery mechanisms. Additionally, students will document best practices for secure private key management in Ripple.
+
+Instructions for Students:
+
+Part 1: Private Key Management Program (40 points)
+
+Programming Language: Choose either Python or JavaScript for your program.
+
+Private Key Generation: Develop a program that can generate Ripple account private keys securely. Ensure that the private keys adhere to Ripple's key generation standards.
+
+Storage and Encryption: Implement a mechanism for securely storing private keys, including encryption and decryption techniques to protect private keys at rest.
+
+Import and Export: Include features for importing and exporting private keys. This allows users to manage their keys more effectively.
+
+Part 2: Security Scenarios and Recovery (30 points)
+
+Security Scenarios: Simulate various security scenarios related to private key management, such as key loss or theft. Document these scenarios to explain the potential risks.
+
+Recovery Mechanisms: Develop and describe recovery mechanisms for scenarios where private keys are compromised or lost. Explain how users can regain access to their accounts.
+
+Part 3: Best Practices Documentation (20 points)
+
+Documentation: Prepare a document that outlines best practices for secure private key management in Ripple applications. Include guidance on key generation, storage, encryption, and recovery.
+Part 4: Report Submission (10 points)
+
+Report Format: Compile your program code, security scenarios, recovery mechanisms, and best practices documentation into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the program code, security scenarios, recovery mechanisms, and best practices documentation, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Successful implementation of private key generation, storage, and encryption (40 points)
+In-depth simulation and documentation of security scenarios and recovery mechanisms (30 points)
+Comprehensive and clear best practices documentation (20 points)
+Presentation and organization of the report (10 points)

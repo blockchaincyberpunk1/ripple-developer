@@ -1,0 +1,52 @@
+Blockchain Overview
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to build a foundational understanding of blockchain technology by exploring its core principles, decentralized ledgers, consensus mechanisms, and real-world applications beyond cryptocurrencies.
+
+Instructions for Students:
+
+Part 1: Core Principles of Blockchain Technology (20 points)
+
+Research and Summarize: Research and summarize the core principles of blockchain technology. Focus on the following aspects:
+What is a blockchain?
+How does a blockchain achieve security and immutability?
+What is the role of cryptographic techniques in blockchain?
+Part 2: Decentralized Ledgers and Their Benefits (20 points)
+
+Explaining Decentralization: Explain the concept of decentralized ledgers and their benefits. Consider the following points:
+What does decentralization mean in the context of blockchain?
+Why is decentralization important in blockchain technology?
+Discuss the potential advantages of decentralized ledgers in terms of security, transparency, and censorship resistance.
+Part 3: Consensus Mechanisms in Blockchain Networks (20 points)
+
+Types of Consensus Mechanisms: Describe different consensus mechanisms used in blockchain networks. Include the following:
+
+Proof of Work (PoW)
+Proof of Stake (PoS)
+Delegated Proof of Stake (DPoS)
+Practical Byzantine Fault Tolerance (PBFT), or any other consensus mechanisms you find relevant.
+Comparison: Provide a brief comparison of the mentioned consensus mechanisms, highlighting their strengths and weaknesses.
+
+Part 4: Blockchain Applications Beyond Cryptocurrencies (20 points)
+
+Application Examples: Provide examples of blockchain applications beyond cryptocurrencies. Select at least two real-world use cases and provide information on:
+The specific application or industry where blockchain is used.
+How blockchain technology is applied in that context.
+The benefits or advantages it brings to that industry or application.
+Part 5: Report Submission (20 points)
+
+Report Format: Compile your research and findings into a well-structured report. Use clear headings and subheadings for each part of the assignment.
+
+Citations: Ensure that you properly cite your sources using a recognized citation style (e.g., APA, MLA, Chicago).
+
+Submission Guidelines:
+
+Submit your completed assignment report as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Clarity and accuracy in summarizing blockchain principles (20 points)
+Depth of explanation regarding decentralized ledgers (20 points)
+Comprehensive coverage and comparison of consensus mechanisms (20 points)
+Quality of examples and insights on blockchain applications (20 points)
+Presentation and organization of the report (20 points)

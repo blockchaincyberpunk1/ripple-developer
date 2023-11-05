@@ -1,0 +1,45 @@
+User Interface Design
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to allow students to apply their design skills and create the user interface for a Ripple wallet application. Students will create wireframes or design mockups for the Ripple wallet app, considering user-friendly features such as account creation, balance display, transaction history, and asset management. They will choose a user interface design tool or framework (e.g., Figma, Adobe XD, or a web development framework) to create their designs. The assignment also includes the development of a visually appealing design that aligns with the Ripple brand and ensures a smooth user experience. Students will present their designs to the class and explain the reasoning behind their choices.
+
+Instructions for Students:
+
+Part 1: Design Planning (20 points)
+
+Define Features: Outline the key features and functionalities that your Ripple wallet application's user interface should include. Consider elements such as account creation, balance display, transaction history, and asset management.
+
+User-Centered Design: Keep the user experience in mind while designing. Ensure that your design is user-friendly and intuitive, making it easy for users to navigate and interact with the wallet app.
+
+Part 2: Design Mockup (40 points)
+
+Select a Design Tool: Choose a user interface design tool or framework to create your design mockups. Some popular options include Figma, Adobe XD, Sketch, or even web development frameworks with design capabilities.
+
+Create Wireframes or Mockups: Develop wireframes or design mockups of the Ripple wallet application's user interface. Your design should include screens for account creation, balance display, transaction history, and asset management. Pay attention to layout, typography, colors, and overall visual aesthetics.
+
+Part 3: Visual Design and Branding (20 points)
+
+Visual Design: Apply visual design principles to create a visually appealing user interface. Ensure that your design aligns with the Ripple brand identity, considering Ripple's official colors, logo, and design guidelines.
+
+Consistency: Maintain consistency in design elements and typography throughout your mockups. Create a cohesive and professional-looking interface.
+
+Part 4: Presentation (20 points)
+
+Class Presentation: Present your Ripple wallet application's user interface design to the class. During your presentation, cover the following points:
+Introduction to your design concept and goals.
+Walkthrough of key screens and features.
+Explanation of your design choices, including the rationale behind layout, color choices, and usability considerations.
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your design mockups, presentation materials, and any additional explanations into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including design mockups and presentation materials, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Clarity of design concept and feature planning (20 points)
+Quality of design mockups (40 points)
+Alignment with Ripple branding and visual design principles (20 points)
+Effectiveness of the class presentation (20 points)
+Presentation and organization of the report (10 points)

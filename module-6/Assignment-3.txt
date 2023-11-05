@@ -1,0 +1,41 @@
+Security Testing and Vulnerability Assessment
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to security testing and vulnerability assessment in Ripple applications. Students will research common security vulnerabilities associated with blockchain and Ripple networks, such as replay attacks and double-spending. They will then develop test cases to assess the security of their Ripple applications, focusing on potential vulnerabilities. The assignment includes performing security testing and vulnerability assessments using testing tools and methodologies. Students are required to identify and fix any security issues found during testing and document the testing process and security improvements made.
+
+Instructions for Students:
+
+Part 1: Security Research (20 points)
+
+Common Vulnerabilities: Research and compile a list of common security vulnerabilities associated with blockchain and Ripple networks. Include explanations of each vulnerability and potential risks.
+Part 2: Test Case Development (30 points)
+
+Test Cases: Develop a set of test cases to assess the security of your Ripple application. Focus on potential vulnerabilities identified in Part 1.
+Part 3: Security Testing (20 points)
+
+Testing Tools: Choose appropriate security testing tools and methodologies to perform security testing on your Ripple application.
+Part 4: Vulnerability Assessment (20 points)
+
+Assessment: Conduct a vulnerability assessment of your application based on the test cases developed in Part 2. Identify any security issues or vulnerabilities.
+Part 5: Issue Remediation (20 points)
+
+Security Improvements: Implement fixes or improvements to address the security issues identified during the vulnerability assessment.
+Part 6: Documentation (20 points)
+
+Testing Documentation: Document the entire testing process, including the selection of tools and methodologies, execution of test cases, vulnerability assessment results, and the steps taken to address security issues.
+Part 7: Report Submission (10 points)
+
+Report Format: Compile your test cases, testing tools and methodologies, vulnerability assessment results, security improvements made, and testing documentation into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the test cases, testing documentation, vulnerability assessment results, and security improvements, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Comprehensive research on common vulnerabilities (20 points)
+Effective development of test cases (30 points)
+Appropriate selection and application of testing tools and methodologies (20 points)
+Thorough vulnerability assessment and identification of issues (20 points)
+Successful implementation of security improvements (20 points)
+Documentation of the testing process and improvements (20 points)
+Presentation and organization of the report (10 points)

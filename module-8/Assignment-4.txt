@@ -1,0 +1,45 @@
+Ripple Protocol Updates Analysis
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to keep students informed about the latest developments and updates related to the Ripple protocol. Students are tasked with staying up-to-date with official Ripple blogs, newsletters, or community updates, choosing a recent Ripple protocol update or announcement, researching it in-depth, summarizing the key changes, analyzing the potential impact on Ripple technology and its applications, and presenting their findings to the class. This assignment aims to ensure that students are aware of the evolving Ripple ecosystem.
+
+Instructions for Students:
+
+Part 1: Stay Informed (10 points)
+
+Follow Official Ripple Updates: Instruct students to regularly follow official Ripple blogs, newsletters, or community updates to stay informed about the latest developments related to the Ripple protocol.
+Part 2: Research and Analysis (50 points)
+
+Choose a Recent Update: Assign students to choose a recent Ripple protocol update, announcement, or enhancement that has been officially communicated by Ripple.
+
+In-Depth Research: Instruct students to conduct in-depth research on the chosen update. They should:
+
+Summarize the key changes or developments introduced by the update.
+
+Provide technical details about how the update affects the Ripple protocol or its components.
+
+Investigate any potential benefits or challenges arising from the update.
+
+Analyze how the update aligns with Ripple's broader goals and its impact on the Ripple ecosystem.
+
+Part 3: Presentation (40 points)
+
+Presentation Preparation: Assign students to prepare a presentation based on their research and analysis of the Ripple protocol update. The presentation should include:
+
+An overview of the chosen update and its significance.
+
+Detailed explanations of the key changes or developments introduced.
+
+Analysis of the potential implications for Ripple technology and its applications.
+
+Consideration of any reactions or responses from the Ripple community or industry stakeholders.
+
+Submission Guidelines:
+
+Students should submit their presentation materials, which may include slides or a document summarizing their findings and analysis, through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Quality of research and analysis (50 points)
+Clarity and effectiveness of the presentation (40 points)
+Adherence to the assignment guidelines (10 points)

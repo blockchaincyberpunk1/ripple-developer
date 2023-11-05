@@ -1,0 +1,53 @@
+Ripple Introduction
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to Ripple technology by exploring its history, primary use case in the financial industry, differences from traditional banking systems, and real-world adoption examples.
+
+Instructions for Students:
+
+Part 1: Research Ripple's History (20 points)
+
+Research: Conduct research to provide a brief history of Ripple. Explore the following aspects:
+
+When and by whom was Ripple founded?
+What was the original motivation behind creating Ripple?
+How has Ripple evolved over the years?
+Timeline: Create a chronological timeline highlighting key milestones in Ripple's history.
+
+Part 2: Primary Use Case of Ripple (20 points)
+
+Use Case Explanation: Explain the primary use case of Ripple within the financial industry. Focus on the following aspects:
+What problem or challenge does Ripple aim to solve?
+How does Ripple technology address this problem or challenge?
+Part 3: Differences from Traditional Banking Systems (20 points)
+
+Comparison: Describe how Ripple differs from traditional banking systems. Consider the following points:
+
+Transaction speed and cost.
+Cross-border payments.
+Interoperability with different currencies and financial institutions.
+Advantages and Disadvantages: Discuss both the advantages and disadvantages of Ripple when compared to traditional banking systems.
+
+Part 4: Real-World Adoption of Ripple (20 points)
+
+Adoption Examples: Provide examples of financial institutions or companies that have adopted Ripple. Include information on:
+Name of the institution or company.
+How they have integrated Ripple into their operations.
+The impact or benefits they have experienced as a result of using Ripple.
+Part 5: Report Submission (20 points)
+
+Report Format: Compile your research and findings into a well-structured report. Use clear headings and subheadings for each part of the assignment.
+
+Citations: Ensure that you properly cite your sources using a recognized citation style (e.g., APA, MLA, Chicago).
+
+Submission Guidelines:
+
+Submit your completed assignment report as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Completeness and accuracy of Ripple's history (20 points)
+Clarity and depth of the use case explanation (20 points)
+Thoroughness of the comparison with traditional banking systems (20 points)
+Quality of examples and insights on real-world adoption (20 points)
+Presentation and organization of the report (20 points)

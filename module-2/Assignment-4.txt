@@ -1,0 +1,42 @@
+XRP Ledger Transactions
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to familiarize students with various transaction types on the XRP Ledger. Students will study different transaction types, create a Python program to generate and submit XRP Ledger transactions, demonstrate the program's functionality by executing transactions using the XRP Ledger API, and discuss the importance of transaction metadata in the XRP Ledger.
+
+Instructions for Students:
+
+Part 1: XRP Ledger Transaction Types (20 points)
+
+Study Transaction Types: Research and study the different transaction types supported by the XRP Ledger. Focus on key transaction types such as Payment, TrustSet, and OfferCreate. Provide a brief explanation of each transaction type.
+Part 2: Python Program (30 points)
+
+Create Python Program: Develop a Python program that allows users to generate and submit XRP Ledger transactions of their choice. The program should:
+
+Prompt users to select a transaction type (e.g., Payment, TrustSet, OfferCreate) and provide necessary inputs for that transaction type.
+Generate a valid transaction based on user inputs.
+Submit the transaction to the XRP Ledger.
+Program Documentation: Include clear and concise documentation for your Python program, including instructions for usage and explanations of how the program generates and submits transactions.
+
+Part 3: Transaction Demonstration (30 points)
+
+Demonstrate Program Functionality: Use your Python program to demonstrate the functionality by executing at least two different types of transactions on the XRP Ledger. Explain the purpose and details of each transaction, and show how your program interacts with the XRP Ledger API.
+Part 4: Importance of Transaction Metadata (20 points)
+
+Discuss Transaction Metadata: Discuss the importance of transaction metadata in the XRP Ledger. Explain how transaction metadata enhances the transparency and traceability of transactions. Include examples of scenarios where transaction metadata is useful.
+Part 5: Report Submission (20 points)
+
+Report Format: Compile your research on XRP Ledger transaction types, Python program documentation, transaction demonstrations, and discussion on transaction metadata into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+
+Citations: Ensure that you properly cite your sources using a recognized citation style (e.g., APA, MLA, Chicago).
+
+Submission Guidelines:
+
+Submit your completed written report, including documentation for the Python program, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Understanding of XRP Ledger transaction types (20 points)
+Functionality and correctness of the Python program (30 points)
+Quality and clarity of transaction demonstrations (30 points)
+Depth of discussion on transaction metadata (20 points)
+Presentation and organization of the report (20 points)

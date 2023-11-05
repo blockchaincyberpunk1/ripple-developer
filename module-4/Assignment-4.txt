@@ -1,0 +1,44 @@
+Ripple Wallet Security Features
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to guide students in enhancing the security features of the Ripple wallet application. Students will identify and implement essential security features, such as two-factor authentication (2FA) or biometric authentication, in the Ripple wallet app. They will also focus on implementing secure key management and storage practices to protect users' private keys and employ encryption methods to secure sensitive data, including transaction details. The assignment includes documenting the security enhancements, explaining their importance in protecting user assets, and discussing potential security challenges and strategies for mitigating risks.
+
+Instructions for Students:
+
+Part 1: Security Features Identification (20 points)
+
+Identify Security Features: Research and identify essential security features that can be integrated into the Ripple wallet application. Consider features like two-factor authentication (2FA), biometric authentication, and secure key management.
+Part 2: Security Implementation (40 points)
+
+Security Enhancements: Implement the identified security features in the Ripple wallet application. This may involve integrating 2FA, biometric authentication, or other relevant security mechanisms.
+
+Secure Key Management: Implement secure key management and storage practices to protect users' private keys. Ensure that private keys are adequately safeguarded from unauthorized access.
+
+Data Encryption: Incorporate encryption methods to secure sensitive data, including transaction details. Encrypt data both in transit and at rest to prevent unauthorized access.
+
+Part 3: Documentation and Explanation (20 points)
+
+Security Documentation: Document the security enhancements you have implemented in the Ripple wallet application. Include clear instructions on how users can enable and utilize these security features.
+
+Importance Explanation: Explain the importance of each security feature in protecting user assets. Discuss how these features mitigate potential security risks.
+
+Part 4: Security Challenges and Mitigation (20 points)
+
+Security Challenges: Identify and discuss potential security challenges or vulnerabilities that could affect the Ripple wallet application. Consider scenarios such as phishing attacks or device compromises.
+
+Risk Mitigation: Propose strategies for mitigating the identified security risks. Provide recommendations on how to enhance security further and protect users from potential threats.
+
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your security enhancements documentation, explanations, and security challenges analysis into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including documentation, explanations, and security challenges analysis, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Identification and implementation of security features (40 points)
+Secure key management and data encryption (40 points)
+Clarity and importance explanation (20 points)
+Thoughtful security challenges analysis and risk mitigation (20 points)
+Presentation and organization of the report (10 points)

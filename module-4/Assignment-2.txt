@@ -1,0 +1,44 @@
+Ripple Wallet App - Basic Functionality
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in implementing the core functionality of a Ripple wallet application. Students will use their chosen programming language and Ripple SDK from Module 3 to create a Ripple wallet app. They will develop essential features for creating Ripple accounts, checking account balances, generating QR codes for receiving XRP, securely sending XRP transactions (including transaction signing and verification), displaying transaction history, and supporting multiple asset types. The assignment also requires thorough testing of the application and documentation of the code for each implemented feature.
+
+Instructions for Students:
+
+Part 1: Design and Planning (20 points)
+
+Define Features: Outline the core features that your Ripple wallet application should include. Focus on essential functionalities such as account creation, balance checking, QR code generation, secure XRP transactions, transaction history, and support for multiple assets.
+
+User Experience: Plan the user interface and user experience to ensure that the app is user-friendly and intuitive.
+
+Part 2: Application Development (40 points)
+
+Choose Programming Language and SDK: Select the programming language and Ripple SDK you have been working with in the course.
+
+Develop Core Features: Implement the following core features in your Ripple wallet application using your chosen programming language and the Ripple SDK:
+
+Account creation functionality.
+Account balance checking.
+QR code generation for receiving XRP.
+Secure XRP transaction handling, including transaction signing and verification.
+Transaction history display.
+Support for multiple asset types.
+Part 3: Testing and Validation (30 points)
+
+Thorough Testing: Test your Ripple wallet application thoroughly to ensure that each implemented feature functions correctly. Pay special attention to transaction security and accuracy.
+Part 4: Code Documentation (10 points)
+
+Code Documentation: Document your code for each of the core features you've implemented. Include comments that explain the purpose and functionality of each code segment. Make your codebase clear and readable.
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your application, documentation, and testing results into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the application code and documentation, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Comprehensive implementation of core features (40 points)
+Successful testing and validation of the application (30 points)
+Quality and clarity of code documentation (10 points)
+Presentation and organization of the report (10 points)

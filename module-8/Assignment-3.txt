@@ -1,0 +1,48 @@
+Open-Source Contribution
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to actively contribute to open-source Ripple projects. By participating in open-source development, students have the opportunity to gain practical experience, collaborate with the community, and make meaningful contributions to the Ripple ecosystem. This assignment emphasizes identifying suitable projects, submitting code improvements, fixing issues, and following best practices for open-source contributions.
+
+Instructions for Students:
+
+Part 1: Project Selection (10 points)
+
+Identify an Open-Source Project: Instruct students to search for and identify an open-source Ripple project or library hosted on platforms like GitHub. The project should align with their interests and skill level.
+Part 2: Contribution (40 points)
+
+Contribution: Assign students to contribute to the selected open-source Ripple project. They can choose from the following types of contributions:
+
+Code Improvement: Identify an area of the project's codebase that can be improved or optimized. Implement the improvement and submit a pull request.
+
+Issue Resolution: Find an open issue in the project's issue tracker, reproduce the issue, and provide a fix. Submit the fix as a pull request.
+
+Documentation Enhancement: Improve the project's documentation by adding examples, clarifications, or instructions. Submit the documentation enhancement as a pull request.
+
+Best Practices: Ensure that students follow best practices for open-source contributions, including:
+
+Creating a descriptive pull request that explains the purpose of their contribution.
+
+Collaborating with project maintainers by responding to feedback and addressing any requested changes.
+
+Adhering to coding and documentation standards followed by the project.
+
+Part 3: Contribution Documentation (30 points)
+
+Contribution Process: Instruct students to document their entire contribution process. Their documentation should include:
+
+Details of the open-source project they chose, including its purpose and community.
+
+Description of the specific contribution they made, with references to pull requests, issues, or documentation changes.
+
+Any challenges or obstacles they encountered during the contribution process and how they resolved them.
+
+Submission Guidelines:
+
+Students should submit their contribution documentation, including the link to their pull request (if applicable), as a single PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Quality and significance of the contribution (40 points)
+Adherence to open-source best practices (20 points)
+Clarity and thoroughness of contribution documentation (30 points)
+Appropriateness of project selection (10 points)

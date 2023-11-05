@@ -1,0 +1,43 @@
+Deployment and Presentation
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to enable students to deploy their developed payment gateway or DApp on a server or hosting platform and present it to the class. This assignment emphasizes real-world deployment and presentation skills, allowing students to showcase their project's features, functionality, and user experience. Additionally, students will demonstrate transactions or interactions with the Ripple network in real-time and encourage class discussions on the potential impact and use cases of Ripple-based applications.
+
+Instructions for Students:
+
+Part 1: Deployment (30 points)
+
+Server/Hosting Deployment: Deploy your developed payment gateway or DApp on a server or hosting platform of your choice. Ensure that it is accessible online for testing.
+
+Testing: Verify that your deployed application is fully functional and can be accessed by users via a web browser.
+
+Part 2: Presentation (40 points)
+
+Presentation Preparation: Prepare a presentation to showcase your payment gateway or DApp to the class. Your presentation should include the following elements:
+
+Introduction to your project, including its name and purpose.
+Explanation of the problem your project addresses and its significance.
+Demonstration of key features and functionality.
+User experience (UX) highlights and user interface (UI) walkthrough.
+Real-time interactions with the Ripple network, such as transactions or data retrieval.
+Any challenges faced during development and how you addressed them.
+Future enhancements or potential use cases for your project.
+Part 3: Class Discussion (30 points)
+
+Live Demonstration: During your presentation, demonstrate transactions or interactions with the Ripple network in real-time. Explain the significance of these interactions within the context of your project.
+
+Class Discussion: Encourage class discussions on the potential impact and use cases of Ripple-based applications. Engage with your peers by inviting questions and feedback regarding your project.
+
+Submission Guidelines:
+
+Submit a link to your deployed payment gateway or DApp and any necessary access credentials, along with your presentation slides, through the course's learning management system (LMS) by the specified deadline.
+
+Present your payment gateway or DApp and deliver your presentation during the class presentation session, adhering to the time limit provided by the instructor.
+
+Grading Rubric:
+
+Successful deployment of the payment gateway or DApp (30 points)
+Effective presentation content and delivery (40 points)
+Real-time interactions with the Ripple network (20 points)
+Engagement and quality of class discussion (30 points)

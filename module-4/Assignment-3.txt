@@ -1,0 +1,42 @@
+Cross-Border Payment Integration
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in exploring cross-border payment integration using the Ripple network. Students will select a specific cross-border payment scenario (e.g., international remittances, business transactions) and develop a Python or JavaScript program that demonstrates how the Ripple network can facilitate cross-border payments. They will integrate Ripple's features, including XRP transactions and currency exchange, to address the chosen payment scenario. The assignment also includes error handling and providing clear instructions for running the program, as well as testing the application with different payment scenarios and documenting the outcomes.
+
+Instructions for Students:
+
+Part 1: Scenario Selection and Research (20 points)
+
+Select a Scenario: Choose a cross-border payment scenario (e.g., international remittances, business transactions) that you want to focus on in your assignment.
+
+Research: Conduct research to understand the specific requirements and challenges associated with your chosen cross-border payment scenario. Identify how Ripple's features can address these challenges.
+
+Part 2: Application Development (40 points)
+
+Programming Language: Develop a program using Python or JavaScript, based on your preference and expertise.
+
+Scenario Implementation: Implement the chosen cross-border payment scenario in your program. Use Ripple's features, such as XRP transactions and currency exchange, to demonstrate how Ripple can facilitate cross-border payments.
+
+Part 3: Error Handling and Instructions (20 points)
+
+Error Handling: Implement error handling mechanisms in your program to handle scenarios like invalid inputs, network issues, or transaction failures gracefully.
+
+User Instructions: Provide clear and concise instructions for running your program. Include any prerequisites and dependencies required for successful execution.
+
+Part 4: Testing and Documentation (20 points)
+
+Testing: Test your program with different payment scenarios to ensure that it functions correctly. Document your testing process, including inputs used and the outcomes of each test.
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your program code, documentation, and testing results into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the program code and documentation, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Selection and understanding of the cross-border payment scenario (20 points)
+Successful implementation of the scenario in the program (40 points)
+Quality of error handling and clear instructions (20 points)
+Comprehensive testing and documentation (20 points)
+Presentation and organization of the report (10 points)

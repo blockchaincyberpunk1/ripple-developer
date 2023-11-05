@@ -1,0 +1,50 @@
+Ripple Meetup Attendance
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to promote networking and learning through participation in Ripple or blockchain-related meetup events. Students are tasked with finding a local Ripple meetup or joining a virtual meetup, actively engaging in the event, summarizing key insights gained, and reflecting on the value of networking within the Ripple community. This assignment aims to connect students with the broader Ripple ecosystem and facilitate learning through real-world interactions.
+
+Instructions for Students:
+
+Part 1: Meetup Selection (10 points)
+
+Meetup Selection: Instruct students to find and select a local Ripple or blockchain-related meetup event that they can attend in person or virtually. Students should ensure that the event is relevant to Ripple technology or blockchain development.
+Part 2: Meetup Attendance (40 points)
+
+Active Participation: Assign students to attend the selected meetup and actively participate by doing the following:
+
+Engage in Discussions: Encourage students to engage in discussions, ask questions, and share their perspectives during the meetup.
+
+Networking: Promote networking by encouraging students to connect with other attendees, such as developers, enthusiasts, or industry professionals.
+
+Attend Entire Event: Students should attend the entire meetup event to maximize their exposure to relevant discussions and presentations.
+
+Part 3: Insights Summary (30 points)
+
+Key Insights: After attending the meetup, instruct students to summarize the key insights and takeaways from the event. Their summary should include:
+
+A list of notable presentations or discussions that they found valuable.
+
+Any new knowledge or perspectives gained from the meetup.
+
+Insights related to Ripple technology, blockchain development, or relevant industry trends.
+
+Part 4: Reflection (20 points)
+
+Networking Reflection: Prompt students to reflect on the value of networking within the Ripple community. They should consider the following in their reflection:
+
+How did networking at the meetup benefit them personally and professionally?
+
+Did they establish connections with individuals who could potentially provide insights or collaboration opportunities in the future?
+
+What are the potential advantages of participating in meetups within the blockchain and Ripple community?
+
+Submission Guidelines:
+
+Students should submit their insights summary, networking reflection, and any relevant photos or materials (if applicable) as a single PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Active participation in the meetup (40 points)
+Quality of insights summary (30 points)
+Thoughtful reflection on networking (20 points)
+Relevance and appropriateness of meetup selection (10 points)

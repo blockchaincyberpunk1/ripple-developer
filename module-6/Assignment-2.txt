@@ -1,0 +1,43 @@
+Secure Transaction Processing
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to emphasize the importance of secure transaction processing in Ripple applications. Students will extend their Ripple wallet application to incorporate enhanced security features. They will implement transaction validation mechanisms to prevent unauthorized transactions, apply cryptographic techniques for verifying transaction integrity, and develop features for multi-signature transactions to enhance security. Additionally, students will provide a detailed guide on secure transaction processing practices.
+
+Instructions for Students:
+
+Part 1: Security Extension (40 points)
+
+Programming Language: Continue working with the programming language and Ripple SDK used in your previous assignment.
+
+Wallet Security Features: Extend your Ripple wallet application to incorporate enhanced security features. Consider implementing:
+
+Transaction validation mechanisms.
+Cryptographic techniques for verifying transaction integrity.
+Multi-signature transaction capabilities.
+Part 2: Transaction Validation (20 points)
+
+Transaction Validation Mechanisms: Implement mechanisms within your application to validate transactions before they are executed. Ensure that unauthorized transactions are prevented.
+Part 3: Cryptographic Verification (20 points)
+
+Cryptographic Techniques: Apply cryptographic techniques to verify the integrity of transactions within your application. Explain how these techniques enhance security.
+Part 4: Multi-Signature Transactions (20 points)
+
+Multi-Signature Transactions: Develop features that enable multi-signature transactions within your Ripple wallet application. Explain the benefits of multi-signature transactions in enhancing security.
+Part 5: Secure Transaction Processing Guide (20 points)
+
+Documentation: Prepare a detailed guide on secure transaction processing practices. This guide should cover best practices, security features, and transaction validation mechanisms.
+Part 6: Report Submission (10 points)
+
+Report Format: Compile your program code, explanations of security features, transaction validation mechanisms, cryptographic techniques, multi-signature transaction functionality, and the secure transaction processing guide into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the program code, explanations, and secure transaction processing guide, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Effective extension of the Ripple wallet application with enhanced security features (40 points)
+Implementation of transaction validation mechanisms (20 points)
+Application of cryptographic techniques for transaction integrity (20 points)
+Successful development of multi-signature transaction features (20 points)
+Comprehensive and clear secure transaction processing guide (20 points)
+Presentation and organization of the report (10 points)

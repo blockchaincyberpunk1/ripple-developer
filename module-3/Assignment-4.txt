@@ -1,0 +1,39 @@
+Querying Ripple Ledger Data
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in retrieving data from the Ripple ledger using Ripple SDKs. Students will use their chosen Ripple SDK to create a program that queries ledger data, such as transaction history or account balances. The program should be designed to accept user input (e.g., Ripple account address) and display relevant ledger information. Additionally, students should ensure error handling for cases like invalid input or network connectivity issues. Testing with different inputs to verify the accuracy of the retrieved data is also a crucial aspect of this assignment.
+
+Instructions for Students:
+
+Part 1: Design and Development (40 points)
+
+Use the Chosen SDK: Utilize the Ripple SDK chosen in Assignment 1 to create a program that allows users to query ledger data.
+
+Query Options: Design the program to offer options for querying different types of ledger data, such as transaction history, account balances, or payment history. The program should accept user input to determine which data to retrieve.
+
+User Input: Implement user input functionality to collect necessary information for the query. For example, if the user chooses to check account balances, they should be able to enter a Ripple account address.
+
+Data Retrieval: Use the SDK's capabilities to query the Ripple ledger data based on the user's input. Ensure that the program accurately retrieves and displays the requested information.
+
+Part 2: Error Handling and Validation (20 points)
+
+Error Handling: Implement error handling mechanisms within your program. Ensure that the program gracefully handles scenarios such as invalid input, network connectivity issues, or unavailable ledger data.
+Part 3: Testing and Validation (30 points)
+
+Testing: Test your program with various inputs to verify its functionality. Ensure that it accurately retrieves and displays ledger data for different scenarios.
+
+Documentation: Document your testing process, including the inputs used and the expected outcomes. Share the results in your report.
+
+Part 4: Report Submission (10 points)
+
+Report Format: Compile your program, documentation, and testing results into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the program code and documentation, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Successful design and development of the program (40 points)
+Quality of error handling and validation (20 points)
+Comprehensive testing and documentation (30 points)
+Presentation and organization of the report (10 points)

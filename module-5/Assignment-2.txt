@@ -1,0 +1,41 @@
+Asset Management and Exchange
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to extend the Ripple wallet application developed in Assignment 2 to support the management and exchange of different assets on the Ripple network. Students will enhance their Ripple wallet application to accommodate multiple asset types, including XRP and custom tokens. They will implement a user-friendly interface that enables users to select assets, view balances, and initiate asset exchanges. Additionally, students will incorporate currency exchange features, allowing users to convert one asset type to another while ensuring the proper handling of asset transactions and validation of exchange rates. The assignment includes documenting the code for asset management and exchange functionalities.
+
+Instructions for Students:
+
+Part 1: Asset Extension and Research (20 points)
+
+Extension Planning: Plan how you will extend your existing Ripple wallet application to support multiple asset types. Consider the user interface and user experience.
+
+Research: Research the Ripple network's capabilities related to asset management and exchange.
+
+Part 2: Application Enhancement (40 points)
+
+Programming Language: Continue working with the programming language and Ripple SDK used in your previous assignment.
+
+Asset Integration: Extend your Ripple wallet application to allow users to manage multiple asset types, including XRP and custom tokens. Implement features for asset selection and balance viewing.
+
+User-Friendly Interface: Create a user-friendly interface that simplifies the asset selection process and provides a clear view of asset balances.
+
+Part 3: Currency Exchange Implementation (20 points)
+
+Currency Exchange: Enable currency exchange features within your application. Implement the logic to allow users to convert one asset type to another, considering exchange rates and validation.
+Part 4: Code Documentation (10 points)
+
+Code Documentation: Document your code for asset management and exchange functionalities. Include explanations of how asset management, asset selection, balance viewing, and currency exchange are implemented within your program. Use comments to make your codebase clear and readable.
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your program code, code documentation, and any additional explanations into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the program code and code documentation, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Successful extension of the Ripple wallet application to support multiple asset types (40 points)
+User-friendly interface for asset selection and balance viewing (20 points)
+Effective implementation of currency exchange features (20 points)
+Quality and clarity of code documentation (10 points)
+Presentation and organization of the report (10 points)

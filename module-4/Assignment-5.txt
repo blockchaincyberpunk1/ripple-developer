@@ -1,0 +1,45 @@
+Presentation and Demo of Ripple Applications
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with the opportunity to present and demonstrate their Ripple wallet application and cross-border payment integration project. Students will prepare a presentation to showcase their Ripple wallet application and demonstrate its key features, such as sending XRP and viewing transaction history. Additionally, they will explain the use case for their cross-border payment integration and how it benefits users. The assignment also includes addressing questions from classmates and the instructor regarding their applications and reflecting on the challenges faced during development and how they were overcome.
+
+Instructions for Students:
+
+Part 1: Presentation Preparation (20 points)
+
+Presentation Outline: Create an outline for your presentation, including key points and the structure of your demonstration.
+
+Demo Script: Prepare a script or outline for the live demonstration of your Ripple wallet application and cross-border payment integration.
+
+Part 2: Presentation and Demo (40 points)
+
+Presentation: Deliver a presentation to the class. Cover the following points:
+
+Introduction to your Ripple wallet application and its purpose.
+Live demonstration of key features, including sending XRP and viewing transaction history.
+Explanation of the use case for your cross-border payment integration project and its benefits to users.
+Demo: Perform a live demonstration of your Ripple wallet application, showcasing its functionality and usability.
+
+Part 3: Q&A Session (20 points)
+
+Q&A Session: Open the floor to questions from classmates and the instructor regarding your Ripple wallet application and cross-border payment integration. Respond to questions with clarity and depth.
+Part 4: Reflection (20 points)
+
+Challenges Faced: Reflect on the challenges you encountered during the development of your Ripple applications, including the wallet app and cross-border payment integration.
+
+Overcoming Challenges: Discuss how you overcame these challenges and any valuable lessons learned in the process.
+
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your presentation outline, demo script, and reflections into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the presentation outline, demo script, reflections, and any presentation materials, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Clear and engaging presentation (40 points)
+Effective live demonstration of the Ripple wallet app (40 points)
+Thoughtful responses to questions during the Q&A session (20 points)
+Reflection on challenges and lessons learned (20 points)
+Presentation and organization of the report (10 points)

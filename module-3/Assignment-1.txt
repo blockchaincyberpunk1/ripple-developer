@@ -1,0 +1,35 @@
+Introduction to Ripple APIs and SDKs
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to the available APIs and SDKs for Ripple development. Students will research and compile a list of Ripple's official APIs and SDKs, choose one SDK for a specific programming language, and provide an overview of the selected SDK. They will also offer step-by-step instructions on how to install and set up the chosen SDK.
+
+Instructions for Students:
+
+Part 1: Ripple APIs and SDKs (20 points)
+
+Research and Compile List: Research and compile a list of Ripple's official APIs and SDKs for different programming languages. Include information about which programming languages each SDK supports (e.g., JavaScript, Python, Java).
+Part 2: Choose and Overview (30 points)
+
+Select a Programming Language: Choose one programming language from the list of Ripple's official SDKs.
+
+SDK Overview: Write a brief overview of the selected SDK, highlighting its features, capabilities, and supported platforms. Explain why you chose this particular SDK.
+
+Part 3: Installation and Setup Guide (30 points)
+
+Step-by-Step Instructions: Provide clear and detailed step-by-step instructions on how to install and set up the chosen SDK for the selected programming language. Include all necessary commands, configurations, and prerequisites.
+Part 4: Report Submission (20 points)
+
+Report Format: Compile your research on Ripple's APIs and SDKs, the overview of the selected SDK, and the installation/setup guide into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+
+Citations: Ensure that you properly cite your sources and provide references for any external materials or documentation used in your assignment.
+
+Submission Guidelines:
+
+Submit your completed written report as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Comprehensive understanding of Ripple APIs and SDKs (20 points)
+Clarity and depth of the SDK overview (30 points)
+Quality and completeness of the installation/setup guide (30 points)
+Presentation and organization of the report (20 points)

@@ -1,0 +1,38 @@
+Sending XRP Transactions
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in sending XRP transactions using Ripple APIs and SDKs. Students will study the documentation of their chosen Ripple SDK to understand how to send XRP transactions programmatically. They will then write a Python (or the language of their choice) script that allows users to send XRP from one account to another, ensuring that the script handles transaction signing and submission. The assignment also requires students to test the script with real or testnet XRP addresses and transactions and include comments and documentation to explain the code's functionality.
+
+Instructions for Students:
+
+Part 1: Study SDK Documentation (20 points)
+
+SDK Documentation: Study the documentation of your chosen Ripple SDK to understand how to send XRP transactions programmatically. Pay attention to the relevant APIs and functions for transaction creation, signing, and submission.
+Part 2: Script Development (40 points)
+
+Write a Python Script: Develop a Python (or the language of your choice) script that allows users to send XRP from one account to another. Ensure that your script includes the following functionalities:
+
+Input for sender's XRP address and secret key.
+Input for recipient's XRP address.
+Input for the amount of XRP to be sent.
+Generation of a transaction using the SDK's APIs.
+Proper signing of the transaction with the sender's secret key.
+Submission of the signed transaction to the XRP Ledger.
+Comments and Documentation: Include clear and comprehensive comments in your script to explain each step and key functionality. Additionally, provide documentation that outlines how to use your script, including input requirements and expected output.
+
+Part 3: Testing and Validation (30 points)
+
+Testing: Test your script with real or testnet XRP addresses and transactions to ensure that it functions correctly. Include the results of your tests in your documentation.
+Part 4: Report Submission (10 points)
+
+Report Format: Compile your script, comments, documentation, and testing results into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the script and documentation, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Understanding of the chosen Ripple SDK and transaction process (20 points)
+Quality and completeness of the script (40 points)
+Clarity and depth of comments and documentation (30 points)
+Successful testing and validation of the script (30 points)

@@ -1,0 +1,45 @@
+Ripple Transactions
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to explore Ripple's transaction model, including its structure, transaction types, fees, signatures, and the importance of transaction validation. Students will also gain practical experience by creating a Python script to simulate a Ripple transaction for sending and receiving XRP between two Ripple addresses.
+
+Instructions for Students:
+
+Part 1: Ripple Transaction Structure (20 points)
+
+Study Ripple Transactions: Research and study Ripple's transaction structure, including the following aspects:
+Transaction types supported by Ripple.
+Transaction fees and their purpose.
+The role of digital signatures in securing Ripple transactions.
+Part 2: Simulate a Ripple Transaction (30 points)
+
+Python Script: Create a simple Python script or code snippet that simulates a Ripple transaction. Your script should:
+Prompt the user for the necessary inputs, including sender and receiver Ripple addresses, the amount of XRP to send, and any additional transaction details.
+Generate a valid Ripple transaction based on the provided inputs.
+Display the transaction details and a confirmation message.
+Part 3: Demonstrate XRP Transfer (20 points)
+
+Send and Receive XRP: Use your Python script to demonstrate how to send and receive XRP (Ripple's native cryptocurrency) between two Ripple addresses. Provide step-by-step instructions and explanations of the transaction process.
+Part 4: Importance of Transaction Validation (30 points)
+
+Transaction Validation: Explain the importance of transaction validation in the Ripple network. Discuss the following points:
+How does Ripple ensure the validity and security of transactions?
+What role do validators play in the Ripple network?
+Why is consensus crucial for Ripple transactions?
+Part 5: Report Submission (20 points)
+
+Report Format: Compile your research, Python script, transaction demonstration, and explanations into a well-structured report. Use clear headings and subheadings for each part of the assignment.
+
+Citations: Ensure that you properly cite your sources and provide references for any external materials or code snippets used in your assignment.
+
+Submission Guidelines:
+
+Submit your completed assignment report along with the Python script/code as a single PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Understanding of Ripple transaction structure (20 points)
+Correctness and functionality of the Python script (30 points)
+Clarity and completeness of the XRP transfer demonstration (20 points)
+Quality of explanation regarding transaction validation (30 points)
+Presentation and organization of the report (20 points)

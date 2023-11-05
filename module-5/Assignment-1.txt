@@ -1,0 +1,41 @@
+Custom Token Issuance
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to enable students to gain hands-on experience in implementing the issuance and management of custom tokens on the Ripple network. Students will research and choose a specific use case for custom tokens (e.g., loyalty points, digital assets) and develop a Python or JavaScript program that allows users to create and issue custom tokens on the Ripple network. They will also implement features for defining token properties (e.g., name, symbol, supply) and distributing tokens to users, ensuring proper management of token ownership and facilitating secure transfers. The assignment includes documenting the code, including explanations of token issuance and transfer processes.
+
+Instructions for Students:
+
+Part 1: Use Case Selection and Research (20 points)
+
+Use Case Selection: Choose a specific use case for custom tokens on the Ripple network (e.g., loyalty points, digital assets) that you want to focus on in your assignment.
+
+Research: Conduct research to understand the specific requirements and challenges associated with your chosen use case for custom tokens.
+
+Part 2: Application Development (40 points)
+
+Programming Language: Develop a program using Python or JavaScript, based on your preference and expertise.
+
+Token Issuance: Implement a mechanism in your program that allows users to create and issue custom tokens on the Ripple network. Include features for defining token properties such as name, symbol, and total supply.
+
+Token Distribution: Implement features for distributing tokens to users securely, ensuring proper management of token ownership.
+
+Part 3: Secure Transfer Implementation (20 points)
+
+Secure Transfers: Enhance your program to facilitate secure transfers of custom tokens between users. Implement the necessary logic for token transfers.
+Part 4: Code Documentation (10 points)
+
+Code Documentation: Document your code, providing explanations of how token issuance, distribution, and secure transfers are implemented within your program. Include comments to make your codebase clear and readable.
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your program code, code documentation, and any additional explanations into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+Submit your completed written report, including the program code and code documentation, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Identification of a suitable use case (20 points)
+Successful implementation of token issuance and distribution (40 points)
+Secure transfer functionality (20 points)
+Quality and clarity of code documentation (10 points)
+Presentation and organization of the report (10 points)

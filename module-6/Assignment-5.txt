@@ -1,0 +1,42 @@
+Security Best Practices Presentation
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to enable students to communicate Ripple network security and best practices effectively. Students will prepare a presentation that covers Ripple network security considerations and best practices. They will discuss the importance of secure private key management, transaction security, and protection against vulnerabilities. Additionally, students will share insights gained from security testing and vulnerability assessments and demonstrate how their Ripple applications incorporate security features. The assignment encourages class discussions on Ripple network security and its significance.
+
+Instructions for Students:
+
+Part 1: Presentation Preparation (40 points)
+
+Topic Selection: Choose a specific aspect of Ripple network security or best practices to focus on in your presentation (e.g., secure private key management, transaction security, vulnerability protection).
+
+Research: Conduct thorough research on your chosen topic, gathering relevant information and examples.
+
+Presentation Outline: Develop an outline for your presentation, including key points, structure, and visuals you plan to use.
+
+Part 2: Presentation and Demonstration (40 points)
+
+Presentation: Deliver your presentation to the class. Cover the following points:
+Introduction to the chosen security or best practices topic.
+Importance and significance of the topic in Ripple development.
+Insights gained from security testing and vulnerability assessments.
+Demonstration of how your Ripple application incorporates security features related to the chosen topic.
+Part 3: Class Discussion (20 points)
+
+Class Discussion: After your presentation, facilitate a class discussion on the topic. Encourage classmates to ask questions, share their insights, and discuss the relevance of security best practices in Ripple development.
+Part 4: Q&A Session (20 points)
+
+Q&A Session: Open the floor to questions from classmates and the instructor regarding your presentation and the security topic you covered. Respond to questions with clarity and depth.
+Part 5: Report (10 points)
+
+Report Format: Prepare a brief report summarizing your presentation, key discussion points from the class discussion, and the questions and answers from the Q&A session. Include any additional insights or reflections.
+Submission Guidelines:
+
+Submit your completed report as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Comprehensive research and presentation on the chosen security or best practices topic (40 points)
+Effective presentation delivery and demonstration (40 points)
+Engaging class discussion and facilitation (20 points)
+Thoughtful responses during the Q&A session (20 points)
+Presentation and organization of the report (10 points)

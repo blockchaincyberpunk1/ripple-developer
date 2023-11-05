@@ -1,0 +1,43 @@
+Ripple-based DApp Development
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this assignment is to enable students to develop a functional decentralized application (DApp) on the Ripple network. Students will implement the selected DApp using Ripple's APIs and SDKs, ensuring that the DApp interacts with the Ripple network for its intended use case. They should design and develop a user-friendly interface, conduct user testing to collect feedback, and prepare a demonstration of the DApp's functionality.
+
+Instructions for Students:
+
+Part 1: DApp Development (50 points)
+
+Implementation: Develop the selected DApp on the Ripple network using Ripple's APIs and SDKs. Ensure that the DApp's functionality aligns with the project proposal from Assignment 3.
+
+Ripple Network Integration: Ensure that the DApp effectively interacts with the Ripple network for its intended use case, whether it involves payments, asset management, or any other feature.
+
+Part 2: User-Friendly Interface (20 points)
+
+User Interface (UI): Design and develop a user-friendly interface for your DApp. Pay attention to the user experience (UX) to make interactions smooth and intuitive.
+Part 3: User Testing and Feedback (20 points)
+
+User Testing: Conduct user testing with a group of users who represent your target audience. Ask them to use your DApp and provide feedback on their experience.
+
+Feedback Collection: Collect feedback from users regarding usability, functionality, and any issues they encounter during testing. Document their feedback thoroughly.
+
+Part 4: Demonstration (10 points)
+
+Demonstration Preparation: Prepare a demonstration of your DApp's functionality. Be ready to showcase how it interacts with the Ripple network and how users can use it effectively.
+Part 5: Documentation (10 points)
+
+Documentation: Document the development process, including challenges faced and solutions implemented. Include a summary of user testing feedback and how it influenced your DApp's design and functionality.
+Submission Guidelines:
+
+Submit your completed DApp and documentation as a package through the course's learning management system (LMS) by the specified deadline.
+
+Present your DApp during the demonstration session in the class, adhering to the time limit provided by the instructor.
+
+Grading Rubric:
+
+Successful implementation of the DApp (50 points)
+Effective integration with the Ripple network (20 points)
+Quality and user-friendliness of the user interface (20 points)
+Thoroughness of user testing and feedback collection (20 points)
+Quality and clarity of the DApp demonstration (10 points)
+Documentation of the development process and user testing (10 points)

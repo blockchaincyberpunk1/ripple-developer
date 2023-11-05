@@ -1,0 +1,45 @@
+Ripple Smart Contracts (Optional)
+
+Course: Ripple Developer Course
+
+Assignment Objective: The objective of this optional assignment is to introduce students to the concept of smart contracts on the Ripple network. Students will research the smart contract capabilities and scripting languages supported by the Ripple network. They will then develop a simple smart contract that automates a specific business process, such as escrow or multi-signature transactions. Using Ripple APIs and SDKs, students will deploy the smart contract on the network and provide examples of how the smart contract can be invoked and interacted with. The assignment also includes a discussion of potential use cases and advantages of implementing smart contracts on Ripple.
+
+Instructions for Students:
+
+Part 1: Smart Contract Understanding (20 points)
+
+Concept Study: Research and study the concept of smart contracts in the context of the Ripple network. Understand how smart contracts work and their potential applications.
+
+Scripting Languages: Explore the scripting languages supported by the Ripple network for smart contract development.
+
+Part 2: Smart Contract Development (40 points)
+
+Programming Language: Choose a programming language that is compatible with the Ripple network for smart contract development.
+
+Smart Contract Creation: Develop a simple smart contract that automates a specific business process. The smart contract can be related to escrow, multi-signature transactions, or another relevant use case.
+
+Part 3: Deployment and Interaction (20 points)
+
+Ripple APIs and SDKs: Use Ripple APIs and SDKs to deploy the smart contract on the Ripple network.
+
+Contract Invocation: Provide examples of how the smart contract can be invoked and interacted with by parties on the network.
+
+Part 4: Use Cases and Advantages (20 points)
+
+Use Cases: Discuss potential use cases where the smart contract developed in this assignment could be applied effectively.
+
+Advantages: Highlight the advantages of implementing smart contracts on the Ripple network, including automation, trust, and security benefits.
+
+Part 5: Report Submission (10 points)
+
+Report Format: Compile your smart contract code, examples of contract invocation, discussion of use cases and advantages, and any additional explanations into a well-structured written report. Use clear headings and subheadings for each part of the assignment.
+Submission Guidelines:
+
+This assignment is optional, and students who choose to complete it should submit their completed written report, including the smart contract code, examples, and discussion, as a PDF document through the course's learning management system (LMS) by the specified deadline.
+Grading Rubric:
+
+Understanding and explanation of smart contracts on Ripple (20 points)
+Successful development of a simple smart contract (40 points)
+Effective examples of contract invocation and interaction (20 points)
+Thoughtful discussion of use cases and advantages (20 points)
+Presentation and organization of the report (10 points)
